@@ -1,4 +1,5 @@
-spring.zzf:
+spring:
+  zzf:
     name: zzf
     age: 100
     sex: 1
